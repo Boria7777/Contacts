@@ -1,4 +1,4 @@
-package com.example.contacts;
+package com.bor1a.contacts;
 
 import android.app.Fragment;
 import android.app.FragmentTransaction;
@@ -8,10 +8,10 @@ import android.support.design.widget.BottomNavigationView;
 import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.TextView;
-import com.example.contacts.fragment.addContactsFragment;
-import com.example.contacts.fragment.contactsFragment;
-import com.example.contacts.fragment.settingFragment;
+import com.bor1a.contacts.fragment.addContactsFragment;
+import com.bor1a.contacts.fragment.contactsFragment;
+import com.bor1a.contacts.fragment.settingFragment;
+import com.example.contacts.R;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener,
     BottomNavigationView.OnNavigationItemSelectedListener {

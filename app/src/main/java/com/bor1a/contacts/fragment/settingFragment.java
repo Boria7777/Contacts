@@ -1,4 +1,4 @@
-package com.example.contacts.fragment;
+package com.bor1a.contacts.fragment;
 
 import android.app.Fragment;
 import android.os.Bundle;

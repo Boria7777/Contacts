@@ -1,4 +1,4 @@
-package com.example.contacts;
+package com.bor1a.contacts.utils;
 
 import android.os.Environment;
 import java.io.File;
